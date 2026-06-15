@@ -1,3 +1,5 @@
+//Exercicío 10. Lista atualizada
+
 let produtos = ["Pastel", "Suco", "Coxinha", "Chocolate"];
 produtos.push("Pão de Queijo");
 produtos.shift();

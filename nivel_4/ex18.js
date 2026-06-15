@@ -1,3 +1,5 @@
+//Exercicío 18. Maior número
+
 let numeros = [2, 13, 7, 5, 11, 3];
 let maior = 0;
 

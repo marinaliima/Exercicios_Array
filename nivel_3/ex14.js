@@ -1,3 +1,5 @@
+//Exercicío 14. Notas dos alunos
+
 let notas = [10, 7 , 9, 8, 10];
 
 for (i = 0; i < notas.length; i++){

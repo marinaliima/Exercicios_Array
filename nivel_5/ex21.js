@@ -1,3 +1,5 @@
+//Exercicío 21. Aprovados e reprovados
+
 let notas = [2, 6, 7, 5, 10, 9];
 
 for (i = 0; i < notas.length; i++){

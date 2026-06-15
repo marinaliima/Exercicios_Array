@@ -1,3 +1,5 @@
+//Exercicío 17. Média de notas
+
 let notas = [7, 8, 9, 10];
 let soma = 0;
 

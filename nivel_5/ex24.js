@@ -1,3 +1,5 @@
+//Exercicío 24. Contando notas acima da média
+
 let notas = [10, 9, 10, 7, 6, 10];
 let notasBoas = 0;
 

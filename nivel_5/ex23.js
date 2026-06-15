@@ -1,3 +1,5 @@
+//Exercicío 23. Verificando nota baixa
+
 let notas = [10, 7, 9, 6, 10];
 let notasBoas = 0;
 let notasAbaixo = 0;

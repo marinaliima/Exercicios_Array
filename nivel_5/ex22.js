@@ -1,3 +1,5 @@
+//Exercicío 22. Procurando um produto
+
 let produtos = ["Pastel", "Suco", "Coxinha", "Chocolate"];
 let produtoBuscado = "Coxinha";
 let naoEncontrado = 0;

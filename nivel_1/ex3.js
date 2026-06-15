@@ -1,3 +1,5 @@
+//Exercicío 3. Acessando posições
+
 let cores = ["Rosa", "Azul", "Verde", "Vermelho", "Amarelo"];
 
 console.log(cores[0]);

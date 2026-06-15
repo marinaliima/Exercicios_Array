@@ -1,3 +1,5 @@
+//Exercicío 19. Menor número
+
 let numeros = [13, 7, 11, 2, 3, 5];
 let menor = numeros[0];
 

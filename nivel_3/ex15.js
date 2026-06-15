@@ -1,3 +1,5 @@
+//Exercicío 15. Verificando presença
+
 let alunos = ["Marina", "Heloisa", "Rafaela", "Sophia", "Isabela"];
 
 for (i = 0; i < alunos.length; i++){

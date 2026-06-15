@@ -1,3 +1,5 @@
+//Desafio final — Sistema simples da cantina
+
 let produtos = ["Coxinha", "Suco", "Croissant", "Refrigerante", "Sorvete"];
 let produtoBuscado = "Coxinha";
 let naoEncontrado = 0;
